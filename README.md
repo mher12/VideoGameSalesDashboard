@@ -4,3 +4,7 @@
 **Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** Excel, PowerQuery, PowerBi  
 **Results:** Review of the global and regional video games markets sales based on regions  
+**Quick View:**  
+
+<img src="https://github.com/mher12/VideoGameSalesDashboard/blob/main/video-game-dashboard.PNG" alt="light marble themed dashboard with employee demographics" width="150" height="100">  
+
